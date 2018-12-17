@@ -1,8 +1,6 @@
 # React Native Firebase analytics
-    this is a simple project using firebase analytics
-
-    I installed this firebase by following [this tutorial](https://medium.com/@oakromulo/firebase-analytics-on-react-native-4b348466f025)
-    it more readable than the [documentation](https://rnfirebase.io/docs/v5.x.x/analytics/ios)
+this is a simple project using firebase analytics
+I installed this firebase by following [this tutorial](https://medium.com/@oakromulo/firebase-analytics-on-react-native-4b348466f025) it more readable than the [documentation](https://rnfirebase.io/docs/v5.x.x/analytics/ios)
 ## installation
 - clone this repo
 - run `npm install` in this repo
@@ -22,6 +20,6 @@
 
 ## Other References
  - by [Mz Chi](https://medium.com/@Mz_Chi/how-to-include-firebase-analytics-to-your-react-native-app-d8fc977747d0)
- - [firebase] (https://firebase.google.com/docs/)
+ - [firebase](https://firebase.google.com/docs/)
  - [react-native-firebase](https://github.com/invertase/react-native-firebase)
  - [rnfirebase.io](https://rnfirebase.io/)
